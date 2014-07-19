@@ -1,0 +1,8 @@
+Link to download source folder: [url]http://i.frogbox.es/27t.zip[/url]
+Link to world: [url]http://everybodyedits.com/games/PWALDXXuuXa0I[/url]
+
+The bot makes some NPCs in the world that the player can interact with. It's somewhat inspired by a certain other game...
+
+In order to make it work, you'll need to have access to the world owner's account. I can give you a working Facebook token upon request, however they are only valid for around 2 hours. For now, PM me on IRC to get a valid token. I may or may not set up a bot to retrieve one automatically.
+
+Also if you're going to build it yourself, please use the latest version of Skylight so that it doesn't consume excessive amounts of CPU. (The DLL is included, but just in case you don't want to run my pre-compiled code I wanted to make sure you knew.)
